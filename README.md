@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
