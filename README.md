@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2460-apply-operations-to-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,8 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2460-apply-operations-to-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0633-sum-of-square-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
