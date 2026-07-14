@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1920-build-array-from-permutation](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2460-apply-operations-to-an-array) |
@@ -80,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [2460-apply-operations-to-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
