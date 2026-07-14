@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1929-concatenation-of-array) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2460-apply-operations-to-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
