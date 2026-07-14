@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1480-running-sum-of-1d-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
