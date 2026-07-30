@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1995-count-special-quadruplets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2418-sort-the-people) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0633-sum-of-square-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
