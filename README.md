@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1995-count-special-quadruplets](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1995-count-special-quadruplets) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
