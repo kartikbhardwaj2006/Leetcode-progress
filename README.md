@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0986-interval-list-intersections) |
 | [1260-shift-2d-grid](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1480-running-sum-of-1d-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2460-apply-operations-to-an-array) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0229-majority-element-ii) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2341-maximum-number-of-pairs-in-array) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
