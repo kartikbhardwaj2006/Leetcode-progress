@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0986-interval-list-intersections) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1995-count-special-quadruplets](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1995-count-special-quadruplets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2485-find-the-pivot-integer) |
