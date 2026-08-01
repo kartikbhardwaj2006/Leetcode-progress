@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0088-merge-sorted-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
