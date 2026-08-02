@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0986-interval-list-intersections) |
 | [1260-shift-2d-grid](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1260-shift-2d-grid) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2485-find-the-pivot-integer) |
@@ -204,5 +206,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0877-stone-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3828-final-element-after-subarray-deletions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
