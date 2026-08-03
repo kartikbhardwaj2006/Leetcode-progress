@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0229-majority-element-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0486-predict-the-winner) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
