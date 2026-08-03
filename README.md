@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0289-game-of-life) |
 | [0414-third-maximum-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1929-concatenation-of-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1260-shift-2d-grid) |
 ## Heap (Priority Queue)
 |  |
