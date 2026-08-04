@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0289-game-of-life) |
+| [0330-patching-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0330-patching-array) |
 | [0414-third-maximum-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0011-container-with-most-water) |
+| [0330-patching-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0330-patching-array) |
 | [0680-valid-palindrome-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0680-valid-palindrome-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2259-remove-digit-from-number-to-maximize-result) |
