@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2460-apply-operations-to-an-array) |
+| [3731-find-missing-elements](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3731-find-missing-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2418-sort-the-people) |
+| [3731-find-missing-elements](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
