@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2485-find-the-pivot-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3828-final-element-after-subarray-deletions) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1995-count-special-quadruplets) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
 | ------- |
