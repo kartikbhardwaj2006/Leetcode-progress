@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0633-sum-of-square-numbers) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1768-merge-strings-alternately) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1929-concatenation-of-array) |
