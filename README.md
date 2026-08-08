@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0877-stone-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
@@ -266,4 +268,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0881-boats-to-save-people) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
