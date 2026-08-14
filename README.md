@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -143,11 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2418-sort-the-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2418-sort-the-people) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
