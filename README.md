@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0486-predict-the-winner) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
