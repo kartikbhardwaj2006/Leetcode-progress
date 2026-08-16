@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0881-boats-to-save-people) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0330-patching-array) |
+| [0611-valid-triangle-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0344-reverse-string) |
+| [0611-valid-triangle-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0881-boats-to-save-people) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0493-reverse-pairs) |
+| [0611-valid-triangle-number](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
