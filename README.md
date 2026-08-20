@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2460-apply-operations-to-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3731-find-missing-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3828-final-element-after-subarray-deletions) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/2460-apply-operations-to-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kartikbhardwaj2006/Leetcode-progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
